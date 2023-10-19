@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A173BD482AE138FF00CD07CB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A173BD472AE138FF00CD07CB /* main.swift */; };
+		A1BA5C262AE1516F0006B4A1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BA5C252AE1516F0006B4A1 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A173BD472AE138FF00CD07CB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A173BD472AE138FF00CD07CB /* 11382.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11382.swift; sourceTree = "<group>"; };
+		A1BA5C252AE1516F0006B4A1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A1CC7B652AE0FC2A005C738A /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1CC7B682AE0FC2A005C738A /* 10926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10926.swift; sourceTree = "<group>"; };
 		A1CC7B712AE0FE43005C738A /* 2588.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2588.swift; sourceTree = "<group>"; };
@@ -43,10 +44,19 @@
 		A173BD452AE1371600CD07CB /* 11382 - 꼬마 정민 */ = {
 			isa = PBXGroup;
 			children = (
-				A173BD472AE138FF00CD07CB /* main.swift */,
+				A173BD472AE138FF00CD07CB /* 11382.swift */,
 			);
 			name = "11382 - 꼬마 정민";
 			path = "11382 - 꼬마 정민";
+			sourceTree = "<group>";
+		};
+		A1BA5C242AE1515F0006B4A1 /* 1330 - 두 수 비교하기 */ = {
+			isa = PBXGroup;
+			children = (
+				A1BA5C252AE1516F0006B4A1 /* main.swift */,
+			);
+			name = "1330 - 두 수 비교하기";
+			path = "1330 - 두 수 비교하기";
 			sourceTree = "<group>";
 		};
 		A1CC7B5C2AE0FC2A005C738A = {
@@ -68,6 +78,7 @@
 		A1CC7B672AE0FC2A005C738A /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				A1BA5C242AE1515F0006B4A1 /* 1330 - 두 수 비교하기 */,
 				A173BD452AE1371600CD07CB /* 11382 - 꼬마 정민 */,
 				A1CC7B702AE0FE30005C738A /* 2588 - 곱셈 */,
 				A1CC7B6F2AE0FDE3005C738A /* 10926 - ??! */,
@@ -151,7 +162,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A173BD482AE138FF00CD07CB /* main.swift in Sources */,
+				A1BA5C262AE1516F0006B4A1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
