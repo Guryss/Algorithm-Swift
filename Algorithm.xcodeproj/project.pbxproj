@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A1CC7B692AE0FC2A005C738A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CC7B682AE0FC2A005C738A /* main.swift */; };
-		A1CC7B722AE0FE43005C738A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CC7B712AE0FE43005C738A /* main.swift */; };
+		A173BD482AE138FF00CD07CB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A173BD472AE138FF00CD07CB /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,9 +23,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A173BD472AE138FF00CD07CB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A1CC7B652AE0FC2A005C738A /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1CC7B682AE0FC2A005C738A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		A1CC7B712AE0FE43005C738A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A1CC7B682AE0FC2A005C738A /* 10926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10926.swift; sourceTree = "<group>"; };
+		A1CC7B712AE0FE43005C738A /* 2588.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2588.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +40,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A173BD452AE1371600CD07CB /* 11382 - 꼬마 정민 */ = {
+			isa = PBXGroup;
+			children = (
+				A173BD472AE138FF00CD07CB /* main.swift */,
+			);
+			name = "11382 - 꼬마 정민";
+			path = "11382 - 꼬마 정민";
+			sourceTree = "<group>";
+		};
 		A1CC7B5C2AE0FC2A005C738A = {
 			isa = PBXGroup;
 			children = (
@@ -59,6 +68,7 @@
 		A1CC7B672AE0FC2A005C738A /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				A173BD452AE1371600CD07CB /* 11382 - 꼬마 정민 */,
 				A1CC7B702AE0FE30005C738A /* 2588 - 곱셈 */,
 				A1CC7B6F2AE0FDE3005C738A /* 10926 - ??! */,
 			);
@@ -68,7 +78,7 @@
 		A1CC7B6F2AE0FDE3005C738A /* 10926 - ??! */ = {
 			isa = PBXGroup;
 			children = (
-				A1CC7B682AE0FC2A005C738A /* main.swift */,
+				A1CC7B682AE0FC2A005C738A /* 10926.swift */,
 			);
 			path = "10926 - ??!";
 			sourceTree = "<group>";
@@ -76,7 +86,7 @@
 		A1CC7B702AE0FE30005C738A /* 2588 - 곱셈 */ = {
 			isa = PBXGroup;
 			children = (
-				A1CC7B712AE0FE43005C738A /* main.swift */,
+				A1CC7B712AE0FE43005C738A /* 2588.swift */,
 			);
 			name = "2588 - 곱셈";
 			path = "2588 - 곱셈";
@@ -114,6 +124,7 @@
 				TargetAttributes = {
 					A1CC7B642AE0FC2A005C738A = {
 						CreatedOnToolsVersion = 15.0;
+						LastSwiftMigration = 1500;
 					};
 				};
 			};
@@ -140,8 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1CC7B722AE0FE43005C738A /* main.swift in Sources */,
-				A1CC7B692AE0FC2A005C738A /* main.swift in Sources */,
+				A173BD482AE138FF00CD07CB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,8 +279,11 @@
 		A1CC7B6D2AE0FC2A005C738A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Algorithm/11382 - 꼬마 정민/Algorithm-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -278,8 +291,10 @@
 		A1CC7B6E2AE0FC2A005C738A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Algorithm/11382 - 꼬마 정민/Algorithm-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
