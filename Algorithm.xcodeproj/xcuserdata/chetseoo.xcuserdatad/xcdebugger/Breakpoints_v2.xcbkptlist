@@ -50,5 +50,180 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E909B56-F0D4-4E46-B59E-011E9B9DC21C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Algorithm/5597 - &#x1100;&#x116a;&#x110c;&#x1166; &#x110b;&#x1161;&#x11ab; &#x1102;&#x1162;&#x1109;&#x1175;&#x11ab; &#x1107;&#x116e;&#x11ab;..?/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "4E909B56-F0D4-4E46-B59E-011E9B9DC21C - c7ed763db5450e72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "4E909B56-F0D4-4E46-B59E-011E9B9DC21C - c7ed763db5450e72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A331CC10-8495-451B-813C-C9C249DCC908"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Algorithm/5597 - &#x1100;&#x116a;&#x110c;&#x1166; &#x110b;&#x1161;&#x11ab; &#x1102;&#x1162;&#x1109;&#x1175;&#x11ab; &#x1107;&#x116e;&#x11ab;..?/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E492FE85-F35C-46A6-906A-AA8035CBAB64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Algorithm/5597 - &#x1100;&#x116a;&#x110c;&#x1166; &#x110b;&#x1161;&#x11ab; &#x1102;&#x1162;&#x1109;&#x1175;&#x11ab; &#x1107;&#x116e;&#x11ab;..?/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E492FE85-F35C-46A6-906A-AA8035CBAB64 - c7ed763db545017a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "E492FE85-F35C-46A6-906A-AA8035CBAB64 - c7ed763db545017a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "E492FE85-F35C-46A6-906A-AA8035CBAB64 - c7ed763db545017a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04AA3579-9122-4FFD-81EB-20DF9A99DD68"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Algorithm/5597 - &#x1100;&#x116a;&#x110c;&#x1166; &#x110b;&#x1161;&#x11ab; &#x1102;&#x1162;&#x1109;&#x1175;&#x11ab; &#x1107;&#x116e;&#x11ab;..?/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "04AA3579-9122-4FFD-81EB-20DF9A99DD68 - c7ed763db5450e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "04AA3579-9122-4FFD-81EB-20DF9A99DD68 - c7ed763db5450e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetseoo/SwiftProjects/Algorithm/Algorithm/5597%20-%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%8B%E1%85%A1%E1%86%AB%20%E1%84%82%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%AE%E1%86%AB..%3F/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
